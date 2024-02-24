@@ -1,0 +1,16 @@
+{
+  "name": "multimedia-forge",
+  "version": "1.0.0",
+  "description": "An open-source multimedia editing and conversion tool.",
+  "main": "mainApp.js",
+  "scripts": {
+    "start": "node mainApp.js"
+  },
+  "dependencies": {
+    "jimp": "^0.16.1",          // Image editing library
+    "fluent-ffmpeg": "^2.1.2"   // Audio/video conversion library
+  },
+  "devDependencies": {},
+  "author": "JoyBoy",
+  "license": "Apache-2.0"
+}

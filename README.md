@@ -30,7 +30,7 @@ MultiMediaForge is an open-source, cross-platform desktop application that allow
    - Customizable preferences and settings to tailor the application to individual user preferences.
 
 6. Open-source Collaboration:
-   - Licensed under a permissive open-source license (e.g., MIT License) to encourage community contributions and collaboration.
+   - Licensed under a permissive open-source license to encourage community contributions and collaboration.
    - GitHub repository for transparent development, issue tracking, and community engagement.
    - Documentation and guidelines for contributors to facilitate code contributions, bug fixes, and feature enhancements.
 
